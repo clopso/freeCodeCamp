@@ -10,3 +10,4 @@ Test programs or web applications to make sure that new changes don't break thei
 | [Advanced Node and Express](./advanced-node-and-express/) |
 |   [Metric-Imperial Converter](./metric-imp-converter/)    |
 |         [Issue Tracker](./issue-tracker/)                 |
+|       [Personal Library](./personal-library/)             |
